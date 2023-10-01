@@ -26,7 +26,7 @@ public class BuddyInfo {
         AddressBook adb = new AddressBook();
         adb.addBuddy(bd);
         System.out.println(adb.removeBuddy(bd));
+        System.out.println("Hey");
     }
-
 
 }
