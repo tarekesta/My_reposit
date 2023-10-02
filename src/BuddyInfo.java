@@ -28,6 +28,7 @@ public class BuddyInfo {
         System.out.println(adb.removeBuddy(bd));
         System.out.println("Hey");
         System.out.println("Hey ho");
+        System.out.println("J'ai cree une branche!");
     }
 
 }
